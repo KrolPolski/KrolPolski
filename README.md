@@ -7,7 +7,7 @@ I have nine years of enterprise technical support experience with a focus on Sto
 
 I am currently working on writing a web server from scratch in C++, and learning Javascript and React through [The Odin Project](https://theodinproject.com) and [Full Stack Open](https://fullstackopen.com).
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-075290?style=for-the-badge&logo=python&logoColor=f1c232)
