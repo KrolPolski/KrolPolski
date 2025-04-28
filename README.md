@@ -5,7 +5,7 @@ There I have been studying primarily C and C++. The unique peer to peer model of
 
 I have nine years of enterprise technical support experience with a focus on Storage Area Network (SAN) support, both as an engineer and manager. I also worked in talent acquisition for five years, so I combine strong technical acumen with excellent communication skills.
 
-I am currently working on writing a web server from scratch in C++, and learning Javascript and React through [The Odin Project](https://theodinproject.com) and [Full Stack Open](https://fullstackopen.com).
+I am currently learning Ruby, Javascript and React through [The Odin Project](https://theodinproject.com) and [Full Stack Open](https://fullstackopen.com).
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
