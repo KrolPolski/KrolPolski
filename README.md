@@ -9,6 +9,7 @@ I am currently learning Ruby, Javascript and React through [The Odin Project](ht
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-075290?style=for-the-badge&logo=python&logoColor=f1c232)
 <!--
