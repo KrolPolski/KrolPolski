@@ -1,7 +1,7 @@
 ## About Me
 
-I am a software engineering student at [Hive Helsinki](https://hive.fi) (Part of the [42 School Network](https://42.fr)).
-There I have been studying primarily C and C++. The unique peer to peer model of this school has given me a lot of experience with performing code reviews of complex projects and enabled me to share what I have learned with others.
+I am a software engineer. I am a graduate of [Hive Helsinki](https://hive.fi) (Part of the [42 School Network](https://42.fr)).
+There I studied primarily C and C++. The unique peer to peer model of this school has given me a lot of experience with performing code reviews of complex projects and enabled me to share what I have learned with others.
 
 I have nine years of enterprise technical support experience with a focus on Storage Area Network (SAN) support, both as an engineer and manager. I also worked in talent acquisition for five years, so I combine strong technical acumen with excellent communication skills.
 
